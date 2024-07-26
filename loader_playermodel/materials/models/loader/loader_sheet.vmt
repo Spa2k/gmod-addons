@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\loader\loader_sheet"
+	"$bumpmap" "models\loader\loader_normal"
+
+	"BasemapAlphaPhongMask" "1"
+
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "1"	
+
+	"$phongfresnelranges"	"[.3 1 8]"
+
+        $selfillum 1
+        $selfillummask "models\loader\loader_illum"
+}
